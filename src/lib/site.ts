@@ -107,6 +107,33 @@ export const stats = [
   { value: 7, suffix: "", label: "Practice areas" },
 ];
 
+export const presence = [
+  {
+    state: "Delhi",
+    note: "Our firm is based in Delhi and regularly appears across city courts, tribunals, and the High Court.",
+  },
+  {
+    state: "Punjab",
+    note: "Counsel appear for commercial, property, and dispute resolution matters across Punjab jurisdictions.",
+  },
+  {
+    state: "Haryana",
+    note: "Active representation in Haryana’s district courts and tribunals for civil and corporate disputes.",
+  },
+  {
+    state: "Rajasthan",
+    note: "Experienced in property, family, and service law matters across Rajasthan’s courts.",
+  },
+  {
+    state: "Uttar Pradesh",
+    note: "Litigation support in UP covering commercial, constitutional, and criminal law matters.",
+  },
+  {
+    state: "Chandigarh",
+    note: "Counsel appear for clients before Chandigarh tribunals and appellate forums.",
+  },
+];
+
 export const matters = [
   {
     tag: "Succession",
